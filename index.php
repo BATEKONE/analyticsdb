@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        // $db->prepare("SELECT * FROM users")
+        
     ?>
 </body>
 </html>
